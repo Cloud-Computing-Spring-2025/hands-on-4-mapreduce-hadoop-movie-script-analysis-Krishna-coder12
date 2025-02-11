@@ -111,7 +111,9 @@ hadoop fs -cat /output/*
 After this view command we will get as shown below,
 
 cat: `/output/task1` : Is a directory
+
 cat: `/output/task2` : Is a directory
+
 cat: `/output/task2` : Is a directory
 
 To view the output in the above directories, run the following command:
