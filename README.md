@@ -138,6 +138,6 @@ To copy the output from HDFS to your local machine:
    exit 
    ```
     ```bash
-    docker cp resourcemanager:/opt/hadoop-3.2.1/share/hadoop/mapreduce/output/ input/output/
+    docker cp resourcemanager:/opt/hadoop-3.2.1/share/hadoop/mapreduce/output/ output/
     ```
 3. Commit and push to your repo so that we can able to see your output
